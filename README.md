@@ -9,7 +9,7 @@ The system analyzes input text, detects emotions, generates emotion-based **bar 
 
 
 ### 📈 Example Summary:
-![Pie Chart](Screenshot%202025-07-19%20114431.png)
+![Pie Chart](Screenshot%202025-07-19%20114750.png)
 
 ### 📈 Example Bar Chart:
 ![Pie Chart](Screenshot%202025-07-19%20114431.png)
